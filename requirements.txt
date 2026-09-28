@@ -1,0 +1,15 @@
+dotmap
+ipython==8.12.0
+jaxtyping==0.2.20
+jupyter==1.0.0
+jupyterlab==4.0.2
+matplotlib==3.6.0
+numpy==1.26.0
+Pillow
+pytorch-lightning
+scikit-learn==1.1.3
+scipy
+torch
+torch-ema==0.3
+torchvision
+tqdm==4.64.1

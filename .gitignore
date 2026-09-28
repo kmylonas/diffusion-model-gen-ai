@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/
+results/
+*.ckpt
+!task2-image-diffusion/fid/afhq_inception_v3.ckpt
